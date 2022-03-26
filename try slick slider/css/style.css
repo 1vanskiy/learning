@@ -1,0 +1,47 @@
+.photo1 {
+    background-image: url(https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGhvdG98ZW58MHx8MHx8&w=1000&q=80);
+    width: 40px;
+    height: 40px;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.photo2 {
+    background-image: url(https://media.istockphoto.com/photos/young-woman-portrait-in-the-city-picture-id1009749608?k=20&m=1009749608&s=612x612&w=0&h=3bnVp0Y1625uKkSwnp7Uh2_y_prWbgRBH6a_6jRew3g=);
+    width: 40px;
+    height: 40px;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.photo3 {
+    background-image: url(https://www.melty.fr/wp-content/uploads/meltyfr/2022/02/media-57967-scaled.jpg);
+    width: 40px;
+    height: 40px;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.name {
+    font-family: sans-serif;
+}
+
+body {
+    padding: 60px;
+    background-color: gray;
+    outline-style: none;
+}
+
+.rev-slider {
+    width: 512px;
+    height: 512px;
+}
